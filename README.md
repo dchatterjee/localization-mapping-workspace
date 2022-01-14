@@ -1,4 +1,3 @@
-# vision.tracking-n-localization
-experiments with multi object tracking and localization
+# Kalman Filter
 
 ![](kalman_filter.png)
